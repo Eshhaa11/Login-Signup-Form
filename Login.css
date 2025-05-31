@@ -5,4 +5,16 @@
 body {
     font-family: 'Segoe UI' sans-serif;
     background-color: #eef2f5;
+    font-size: 24px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px 40px;
+    width: ;
 }
